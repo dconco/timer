@@ -1,6 +1,6 @@
 # Timer
 
-This is a simple real-time timer ⏳ created only with PHP with yhe help of [phpSPA](https://github.com/dconco/phpspa) library.
+This is a simple real-time timer ⏳ created only with PHP with the help of [phpSPA](https://github.com/dconco/phpspa) library.
 
 To Run this app, follow this steps below:
 
